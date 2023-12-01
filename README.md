@@ -1,1 +1,1 @@
-# SAMPLE
+Learning how to use GitHub
