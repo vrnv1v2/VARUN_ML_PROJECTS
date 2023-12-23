@@ -1,1 +1,2 @@
-Learning how to use GitHub
+Data Science and Machine Learning
+Stock Market Analysis
